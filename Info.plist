@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>GL-StellaMystica.ttf</string>
+		<string>HunckSC-Regular.otf</string>
+		<string>Hunck-Regular.otf</string>
+		<string>Kreadon-Regular.ttf</string>
+		<string>Kreadon-Bold.ttf</string>
+		<string>Kreadon-Medium.ttf</string>
+		<string>UbuntuSans-Regular.ttf</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key></key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
